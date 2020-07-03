@@ -1,5 +1,5 @@
 
-![kulokenci](https://github.com/kulokenci)大佬删库了，还好做了备份
+[kulokenci](https://github.com/kulokenci)大佬删库了，还好做了备份
 
 ### Source
 Origin https://github.com/donwa/goindex
